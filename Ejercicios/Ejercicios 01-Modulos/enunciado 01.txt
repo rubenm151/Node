@@ -1,0 +1,9 @@
+-Crear un archivo ejercicio indexEjercicio1.js
+-que al ejecutar ese archivo principal nos muestre por consola un mensaje de bienvenida
+-Crear otra carpeta modules
+-dentro de la carpeta creamos dos archivos, uno que se llame numberUtils.js que contenga cuatro funciones (restar,sumar, dividir y multiplicar)
+-en este archivo vamos a exportar de manera individual las funciones
+- la funcion dividir debe evitar que se divida entre 0, en tal caso que devuelve un mensaje por consola de error
+-hacer console.log en el indexEjercicio1.js de cada una de las funciones pasandole 2 parametros
+-crear otro archivo en modules que se llame textUtils con dos funciones, una que pasandole un string las convierta en mayus y otra en minus.
+-hacer console.log de estas funciones y se exportan juntas
